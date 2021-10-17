@@ -1,0 +1,8 @@
+09:58 AM 17-10-2021	Himanshu Raj
+---------------------------------------------
+testing raspberry pi.py file 
+
+Academics  function ---> test case passed [10:00 AM 17-10-2021]
+LIBRARY  Function tested -->  test case passed [10:05 AM 17-10-2021]
+student activity center  --> test case passed [10:17 AM 17-10-2021]
+AUTORIUM FUCTION ---> TEST CASE PASSED  [10:19 AM 17-10-2021]
