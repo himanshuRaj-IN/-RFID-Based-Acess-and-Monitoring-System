@@ -109,3 +109,5 @@ if __name__ == '__main__':
 
     while True:
         auditorium()
+
+        # Select azvove define function according to need !!
